@@ -1,6 +1,5 @@
 # Google Sheets API Interaction
 
-import os
 import sys
 
 from googleapiclient.discovery import build
